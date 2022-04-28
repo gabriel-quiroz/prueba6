@@ -1,4 +1,6 @@
 elbuenas2
+
+tempo
 elbuenas
 uno
 uno
@@ -7,12 +9,13 @@ temporal
 uno
 uno
 temporal
-uno
+tempo
 
 temporal
 uno
 elbuenas2
 uno
 
-temporal
-temporal
+tempo
+tempo
+tempo
